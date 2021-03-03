@@ -1,5 +1,22 @@
 # Blockchain Technology Major at RIT
 
+## Requirments
+Requirements
+- [Bachelor's Degree](https://www.rit.edu/academicaffairs/sois/getting-started/undergraduate/undergraduate-degrees-programs#Apply)   
+
+The degree requires completion of at least 120 semester credit hours. The 120 credit hours are made up of 60 credit hours in general education along with 60 credit hours in two to four areas of customizable professional concentrations. Each concentration is designed by the student and their academic advisor and is reviewed by SOIS Faculty and Fellows. A professional concentration is at least 15 credit hours in a thematic or discipline-based area of study. As part of the 60-credit hour general education requirement, students must complete perspectives courses and an immersion. Students must achieve a program GPA of at least 2.0 and professional concentration GPAs of at least a 2.0 in order to graduate
+
+## Concentrations
+- Blockchain   
+  - Distributed systems, p2p networks, and cryptography   
+- Computing   
+  - Programming, System Administration, Networking, Data Structures   
+- Design   
+  - Software design, best practices, and UI/UX design arguably one of the larger problems to be solved for mass adoption with blockchains today   
+- Math and Macro   
+  - Game and Graph Theory, Monetary and policy analysis, and economic modeling   
+
+## Courses
 |Courses Number|Courses Name                                |Credits|Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |Status     |Concentration    |Type                             |
 |--------------|--------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------|---------------------------------|
 |CSCI 652      |Distributed Systems                         |3.0    |An introduction to the study of distributed systems. The course covers distributed system architectures such as client-server and peer-to-peer, distributed system design issues such as communication, fault tolerance, coordination, and deadlock, distributed system middleware such as remote method invocation (RMI) and tuple space, and the theory of distributed algorithms such as logical clocks and leader election. Programming projects are required.                                                                                                                                                                                                                                                                                                                                                                                                  |To Take    |Blockchain       |Distributed Systems              |
